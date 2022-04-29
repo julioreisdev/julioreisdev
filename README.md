@@ -1,5 +1,5 @@
 ### Olá, seja bem vindo(a)! 👋
-#### Meu nome é Júlio Cezar dos Reis Pais, sou Desenvolvedor Web e amante de tecnologia, minha missão é resolver problemas e facilitar a vida das pessoas com o uso da informática.
+#### Meu nome é Júlio Cezar dos Reis Pais, sou Desenvolvedor Web e amante de tecnologia, minha missão é resolver problemas e facilitar a vida das pessoas com o uso da informática. Técnico em informática pelo Instituto Federal do Piauí, participei de uma iniciação científica federal e palestrei na 17º Semana Nacional de Ciência e Tecnologia.
 
 TECNOLOGIAS QUE USO ATUALMENTE:
 - JAVASCRIPT
