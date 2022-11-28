@@ -19,8 +19,6 @@
 ![JEST](https://img.shields.io/badge/JEST-007ACC?style=for-the-badge&logo=JEST&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-007ACC?style=for-the-badge&logo=AMAZON&logoColor=white)
 
-- TESTES AUTOMATIZADOS
-
 
 <!--
 **julioreisdev/julioreisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
