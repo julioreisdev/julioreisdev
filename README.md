@@ -17,6 +17,7 @@
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![CYPRESS](https://img.shields.io/badge/Cypress-007ACC?style=for-the-badge&logo=cypress&logoColor=white)
 ![JEST](https://img.shields.io/badge/JEST-007ACC?style=for-the-badge&logo=JEST&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-007ACC?style=for-the-badge&logo=AMAZON&logoColor=white)
 
 - TESTES AUTOMATIZADOS
 
