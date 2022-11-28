@@ -15,6 +15,8 @@
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CYPRESS](https://img.shields.io/badge/Cypress-007ACC?style=for-the-badge&logo=cypress&logoColor=white)
+![JEST](https://img.shields.io/badge/JEST-007ACC?style=for-the-badge&logo=JEST&logoColor=white)
 
 - TESTES AUTOMATIZADOS
 
