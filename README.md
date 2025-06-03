@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou Júlio!
 
 Sou desenvolvedor Front-end especializado em **React** e apaixonado por criar interfaces dinâmicas, performáticas e fáceis de usar. Com uma base sólida em algoritmos, estruturas de dados e experiência prática em projetos reais, busco sempre escrever código limpo, escalável e eficiente.
 
