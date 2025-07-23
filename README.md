@@ -39,7 +39,7 @@ Atualmente, atuo como **freelancer** e **instrutor de programação no Senac**, 
 
 ## 📫 Vamos nos conectar?
 
-- LinkedIn: https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/j%C3%BAlio-cezar-reis-67a36722b/
+- LinkedIn: https://www.linkedin.com/in/julioreisdev/
 - Email: julioreisdev@gmail.com
 
 ---
