@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou o Júlio!
 
-Sou um desenvolvedor **Full-Stack** especializado em **Front-end com React** e apaixonado por criar interfaces dinâmicas, performáticas e intuitivas. Com uma base sólida em algoritmos e estruturas de dados, busco sempre escrever código limpo e escalável. Atualmente, atuo como **freelancer** e **instrutor de programação no Senac**, além de cursar **Sistemas para Internet** no IFPI.
-
 ---
 
 ### 💻 Minhas Especialidades
