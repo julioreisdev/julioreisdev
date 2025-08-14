@@ -15,12 +15,6 @@ Sou um desenvolvedor **Full-Stack** especializado em **Front-end com React** e a
 
 ---
 
-### 🚀 Linguagens e Ferramentas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioreisdev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julioreisdev/)
