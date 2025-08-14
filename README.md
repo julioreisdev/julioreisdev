@@ -15,9 +15,9 @@ Sou um desenvolvedor **Full-Stack** especializado em **Front-end com React** e a
 
 ---
 
-### 🎯 Sobre Mim
+### 🚀 Linguagens e Ferramentas
 
-Iniciei na programação aos 15 anos, participando de competições como a **Olimpíada Brasileira de Informática**. Essa jornada me deu uma base forte e me motivou a evoluir continuamente como desenvolvedor e entusiasta da tecnologia.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioreisdev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
